@@ -3,7 +3,7 @@ module github.com/zeyac/brow
 go 1.20
 
 require (
-	github.com/kevinburke/go-bindata v1.1.0
+	github.com/kevinburke/go-bindata v3.24.0+incompatible
 	github.com/zeyac/gore v1.56.14
 )
 
